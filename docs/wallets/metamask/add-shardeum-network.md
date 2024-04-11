@@ -9,7 +9,7 @@ sidebar_position: 3
 
 ![adding_shardeum_1](/img/adding_shardeum/adding_shardeum_1.jpg)
 
-## Fill the Endpoint Information
+## Fill in the Endpoint Information
 
 2, Add Shardeum automatically or manually:
 
